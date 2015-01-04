@@ -17,8 +17,7 @@ Those fractals were discovered by Sergey Gerasimov and are described on his [web
 
 ## Code 
 
-Check out the code here:  
-[billard-embroidery.m](here)
+Check out the code [here](billard-embroidery.m).
 
 ## Links
 
